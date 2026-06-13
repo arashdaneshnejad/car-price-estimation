@@ -1,0 +1,2643 @@
+{
+    "Audi": {
+        " A1": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.4,
+                1.5,
+                1.6,
+                2.0
+            ]
+        },
+        " A6": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.8,
+                2.0,
+                2.7,
+                3.0,
+                4.0,
+                4.2,
+                5.2
+            ]
+        },
+        " A4": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.4,
+                1.8,
+                2.0,
+                3.0,
+                3.2,
+                4.2
+            ]
+        },
+        " A3": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.4,
+                1.5,
+                1.6,
+                1.8,
+                2.0,
+                2.5
+            ]
+        },
+        " Q3": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.4,
+                1.5,
+                2.0,
+                2.5
+            ]
+        },
+        " Q5": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                2.0,
+                3.0
+            ]
+        },
+        " A5": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.4,
+                1.8,
+                2.0,
+                2.7,
+                3.0
+            ]
+        },
+        " S4": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                3.0,
+                4.2
+            ]
+        },
+        " Q2": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.4,
+                1.5,
+                1.6,
+                2.0
+            ]
+        },
+        " A7": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0,
+                3.0,
+                4.0
+            ]
+        },
+        " TT": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.8,
+                2.0,
+                2.5,
+                3.2
+            ]
+        },
+        " RS6": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                4.0
+            ]
+        },
+        " Q7": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                3.0,
+                4.0,
+                4.1
+            ]
+        },
+        " RS3": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.5
+            ]
+        },
+        " A8": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                3.0,
+                4.0,
+                4.2,
+                6.3
+            ]
+        },
+        " RS4": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.9,
+                4.2
+            ]
+        },
+        " Q8": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " RS5": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.9,
+                4.2
+            ]
+        },
+        " R8": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                4.2
+            ]
+        },
+        " SQ5": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " S8": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                4.0
+            ]
+        },
+        " SQ7": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                4.0
+            ]
+        },
+        " S3": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        " S5": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " RS7": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                4.0
+            ]
+        }
+    },
+    "BMW": {
+        " 5 Series": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid",
+                "Other"
+            ],
+            "engineSizes": [
+                2.0,
+                2.5,
+                2.8,
+                3.0,
+                3.5,
+                4.4
+            ]
+        },
+        " 6 Series": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0,
+                3.0,
+                4.4
+            ]
+        },
+        " 1 Series": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.5,
+                1.6,
+                2.0,
+                3.0
+            ]
+        },
+        " 7 Series": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                2.0,
+                2.5,
+                3.0,
+                4.4,
+                6.6
+            ]
+        },
+        " 2 Series": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel",
+                "Other",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                1.5,
+                2.0,
+                3.0
+            ]
+        },
+        " 4 Series": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0,
+                3.0
+            ]
+        },
+        " X3": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Hybrid",
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0,
+                3.0
+            ]
+        },
+        " 3 Series": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Other",
+                "Petrol",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                1.5,
+                1.6,
+                2.0,
+                2.2,
+                2.5,
+                3.0
+            ]
+        },
+        " X5": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Other",
+                "Hybrid",
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0,
+                3.0,
+                4.4
+            ]
+        },
+        " X4": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0,
+                3.0
+            ]
+        },
+        " i3": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Other",
+                "Electric"
+            ],
+            "engineSizes": [
+                0.6,
+                1.0
+            ]
+        },
+        " X1": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.5,
+                2.0
+            ]
+        },
+        " M4": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " X2": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.5,
+                2.0
+            ]
+        },
+        " X6": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                3.0,
+                4.4
+            ]
+        },
+        " Z4": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0,
+                2.5,
+                3.0
+            ]
+        },
+        " i8": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Hybrid",
+                "Other"
+            ],
+            "engineSizes": [
+                1.5
+            ]
+        },
+        " M2": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " M3": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                3.0,
+                3.2,
+                4.0
+            ]
+        },
+        " M6": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                4.4,
+                5.0
+            ]
+        },
+        " 8 Series": {
+            "transmissions": [
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " M5": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                4.4
+            ]
+        },
+        " Z3": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.9,
+                2.2
+            ]
+        }
+    },
+    "Ford": {
+        " Fiesta": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.1,
+                1.2,
+                1.3,
+                1.4,
+                1.5,
+                1.6,
+                2.0
+            ]
+        },
+        " Focus": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.5,
+                1.6,
+                2.0,
+                2.3,
+                2.5
+            ]
+        },
+        " Puma": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0
+            ]
+        },
+        " Kuga": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                1.5,
+                1.6,
+                2.0,
+                2.5
+            ]
+        },
+        " EcoSport": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.5
+            ]
+        },
+        " C-MAX": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.5,
+                1.6,
+                1.8,
+                2.0
+            ]
+        },
+        " Mondeo": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Hybrid",
+                "Petrol",
+                "Electric",
+                "Other"
+            ],
+            "engineSizes": [
+                1.5,
+                1.6,
+                1.8,
+                2.0,
+                2.2,
+                5.0
+            ]
+        },
+        " Ka+": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.2,
+                1.5
+            ]
+        },
+        " Tourneo Custom": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0,
+                2.2
+            ]
+        },
+        " S-MAX": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.5,
+                1.6,
+                2.0,
+                2.2
+            ]
+        },
+        " B-MAX": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.4,
+                1.5,
+                1.6
+            ]
+        },
+        " Edge": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        " Tourneo Connect": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.5,
+                1.6
+            ]
+        },
+        " Grand C-MAX": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.5,
+                1.6,
+                2.0
+            ]
+        },
+        " KA": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.2
+            ]
+        },
+        " Galaxy": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.5,
+                1.6,
+                1.8,
+                2.0,
+                2.2
+            ]
+        },
+        " Mustang": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.3,
+                5.0
+            ]
+        },
+        " Grand Tourneo Connect": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.5,
+                1.6
+            ]
+        },
+        " Fusion": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6
+            ]
+        },
+        " Ranger": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                3.2
+            ]
+        },
+        " Transit Tourneo": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.2
+            ]
+        }
+    },
+    "Toyota": {
+        " GT86": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        " Corolla": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Other",
+                "Hybrid",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.2,
+                1.8,
+                2.0
+            ]
+        },
+        " RAV4": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Other",
+                "Hybrid",
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.8,
+                2.0,
+                2.2,
+                2.5
+            ]
+        },
+        " Yaris": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto",
+                "Other"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Hybrid",
+                "Diesel",
+                "Other"
+            ],
+            "engineSizes": [
+                1.0,
+                1.3,
+                1.4,
+                1.5,
+                1.8
+            ]
+        },
+        " Auris": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Hybrid",
+                "Petrol",
+                "Diesel",
+                "Other"
+            ],
+            "engineSizes": [
+                1.2,
+                1.3,
+                1.4,
+                1.6,
+                1.8
+            ]
+        },
+        " Aygo": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Other",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0
+            ]
+        },
+        " C-HR": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Hybrid",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.2,
+                1.8,
+                2.0
+            ]
+        },
+        " Prius": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Hybrid",
+                "Other"
+            ],
+            "engineSizes": [
+                1.5,
+                1.8
+            ]
+        },
+        " Avensis": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.6,
+                1.8,
+                2.0,
+                2.2
+            ]
+        },
+        " Verso": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.6,
+                1.8,
+                2.0
+            ]
+        },
+        " Hilux": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.4,
+                2.5,
+                3.0
+            ]
+        },
+        " PROACE VERSO": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        " Land Cruiser": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.8,
+                3.0,
+                4.2,
+                4.5
+            ]
+        },
+        " Supra": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " Camry": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Hybrid"
+            ],
+            "engineSizes": [
+                2.5
+            ]
+        },
+        " Verso-S": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.3
+            ]
+        },
+        " IQ": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.3
+            ]
+        },
+        " Urban Cruiser": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.3,
+                1.4
+            ]
+        }
+    },
+    "Volkswagen": {
+        " T-Roc": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.0,
+                1.5,
+                1.6,
+                2.0
+            ]
+        },
+        " Golf": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid",
+                "Other"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.4,
+                1.5,
+                1.6,
+                2.0,
+                3.2
+            ]
+        },
+        " Passat": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid",
+                "Other"
+            ],
+            "engineSizes": [
+                1.4,
+                1.5,
+                1.6,
+                1.8,
+                2.0
+            ]
+        },
+        " T-Cross": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel",
+                "Other"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.6
+            ]
+        },
+        " Polo": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel",
+                "Other"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.4,
+                1.6,
+                1.8,
+                2.0
+            ]
+        },
+        " Tiguan": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.4,
+                1.5,
+                2.0
+            ]
+        },
+        " Sharan": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.4,
+                2.0
+            ]
+        },
+        " Up": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.0
+            ]
+        },
+        " Scirocco": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.4,
+                2.0
+            ]
+        },
+        " Beetle": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.2,
+                1.4,
+                1.6,
+                2.0
+            ]
+        },
+        " Caddy Maxi Life": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.4,
+                1.6,
+                2.0
+            ]
+        },
+        " Caravelle": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        " Touareg": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " Arteon": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.5,
+                2.0
+            ]
+        },
+        " Touran": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.4,
+                1.5,
+                1.6,
+                1.9,
+                2.0
+            ]
+        },
+        " Golf SV": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.4,
+                1.5,
+                1.6,
+                2.0
+            ]
+        },
+        " Amarok": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0,
+                3.0
+            ]
+        },
+        " Tiguan Allspace": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.4,
+                1.5,
+                2.0
+            ]
+        },
+        " Shuttle": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        " Jetta": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.4,
+                1.6,
+                2.0
+            ]
+        },
+        " CC": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.4,
+                1.8,
+                2.0
+            ]
+        },
+        " California": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        " Caddy Life": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6,
+                2.0
+            ]
+        },
+        " Caddy": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.6,
+                2.0
+            ]
+        },
+        " Caddy Maxi": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.6,
+                2.0
+            ]
+        },
+        " Eos": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.4,
+                2.0
+            ]
+        }
+    },
+    "Vauxhall": {
+        " Corsa": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.3,
+                1.4,
+                1.5,
+                1.6
+            ]
+        },
+        " Astra": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.4,
+                1.5,
+                1.6,
+                1.7,
+                1.8,
+                2.0
+            ]
+        },
+        " Viva": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.0
+            ]
+        },
+        " Mokka": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Other"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.4,
+                1.5,
+                1.6,
+                1.7
+            ]
+        },
+        " Mokka X": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.4,
+                1.6
+            ]
+        },
+        " Crossland X": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.2,
+                1.5,
+                1.6
+            ]
+        },
+        " Zafira": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.4,
+                1.6,
+                1.7,
+                1.8,
+                1.9,
+                2.0
+            ]
+        },
+        " Meriva": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.4,
+                1.6,
+                1.7
+            ]
+        },
+        " Zafira Tourer": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.4,
+                1.6,
+                2.0
+            ]
+        },
+        " Adam": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2,
+                1.4
+            ]
+        },
+        " Grandland X": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.2,
+                1.5,
+                1.6,
+                2.0
+            ]
+        },
+        " Antara": {
+            "transmissions": [
+                "Manual",
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.2
+            ]
+        },
+        " Insignia": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.4,
+                1.5,
+                1.6,
+                1.8,
+                2.0,
+                2.8
+            ]
+        },
+        " Ampera": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Electric"
+            ],
+            "engineSizes": [
+                1.4
+            ]
+        },
+        " GTC": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.4,
+                1.6,
+                2.0
+            ]
+        },
+        " Combo Life": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.2,
+                1.5
+            ]
+        },
+        " Vivaro": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.6
+            ]
+        },
+        " Cascada": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6,
+                2.0
+            ]
+        },
+        " Kadjar": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.3
+            ]
+        },
+        " Agila": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2
+            ]
+        }
+    },
+    "Hyundai": {
+        " I20": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.1,
+                1.2,
+                1.4
+            ]
+        },
+        " Tucson": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto",
+                "Other"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                1.6,
+                1.7,
+                2.0
+            ]
+        },
+        " I10": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.0,
+                1.2
+            ]
+        },
+        " IX35": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6,
+                1.7,
+                2.0,
+                2.2
+            ]
+        },
+        " I30": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.4,
+                1.6,
+                2.0,
+                2.2
+            ]
+        },
+        " I40": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6,
+                1.7
+            ]
+        },
+        " Ioniq": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Other"
+            ],
+            "fuelTypes": [
+                "Hybrid",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                1.6
+            ]
+        },
+        " Kona": {
+            "transmissions": [
+                "Manual",
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Hybrid",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.0,
+                1.6
+            ]
+        },
+        " Veloster": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6
+            ]
+        },
+        " IX20": {
+            "transmissions": [
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.4,
+                1.6
+            ]
+        },
+        " I800": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.5
+            ]
+        },
+        " Santa Fe": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.2
+            ]
+        }
+    },
+    "Mercedes-Benz": {
+        " SLK": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto",
+                "Other"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.8,
+                2.0,
+                2.1,
+                2.3,
+                3.0,
+                3.2,
+                3.5
+            ]
+        },
+        " S Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Hybrid",
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.1,
+                2.9,
+                3.0,
+                3.2,
+                3.5,
+                4.7,
+                5.0,
+                5.5,
+                6.0,
+                6.2
+            ]
+        },
+        " SL CLASS": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.6,
+                2.0,
+                2.1,
+                3.0,
+                3.2,
+                3.5,
+                3.7,
+                4.7,
+                5.0,
+                5.5
+            ]
+        },
+        " GLE Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Hybrid",
+                "Petrol",
+                "Other"
+            ],
+            "engineSizes": [
+                2.0,
+                2.1,
+                2.9,
+                3.0,
+                5.5
+            ]
+        },
+        " GLA Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6,
+                2.0,
+                2.1,
+                2.2
+            ]
+        },
+        " A Class": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                1.3,
+                1.5,
+                1.6,
+                1.7,
+                1.8,
+                2.0,
+                2.1
+            ]
+        },
+        " B Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.3,
+                1.5,
+                1.6,
+                1.7,
+                1.8,
+                2.0,
+                2.1,
+                2.2
+            ]
+        },
+        " C Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid",
+                "Other"
+            ],
+            "engineSizes": [
+                1.5,
+                1.6,
+                1.8,
+                2.0,
+                2.1,
+                2.2,
+                3.0,
+                4.0,
+                6.2
+            ]
+        },
+        " E Class": {
+            "transmissions": [
+                "Automatic",
+                "Manual",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol",
+                "Hybrid"
+            ],
+            "engineSizes": [
+                1.8,
+                2.0,
+                2.1,
+                2.2,
+                2.9,
+                3.0,
+                3.5,
+                4.0,
+                5.5,
+                6.2
+            ]
+        },
+        " GL Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6,
+                2.0,
+                2.1,
+                3.0,
+                5.5
+            ]
+        },
+        " CLS Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0,
+                2.1,
+                2.9,
+                3.0,
+                3.5,
+                5.5
+            ]
+        },
+        " GLC Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.0,
+                2.1,
+                3.0,
+                4.0
+            ]
+        },
+        " CLC Class": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.6,
+                1.8
+            ]
+        },
+        " CLA Class": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Petrol",
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.3,
+                1.6,
+                1.8,
+                2.0,
+                2.1
+            ]
+        },
+        " V Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0,
+                2.1,
+                2.2
+            ]
+        },
+        " CL Class": {
+            "transmissions": [
+                "Semi-Auto",
+                "Manual",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                1.3,
+                1.6,
+                1.8,
+                2.0,
+                2.1,
+                2.2,
+                4.7,
+                5.4,
+                6.2
+            ]
+        },
+        " GLS Class": {
+            "transmissions": [
+                "Automatic",
+                "Semi-Auto"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " G Class": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        " M Class": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel",
+                "Petrol"
+            ],
+            "engineSizes": [
+                2.1,
+                2.2,
+                3.0,
+                5.5
+            ]
+        },
+        " GLB Class": {
+            "transmissions": [
+                "Semi-Auto",
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        " X-CLASS": {
+            "transmissions": [
+                "Automatic",
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.3,
+                3.0
+            ]
+        },
+        "180": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                1.5
+            ]
+        },
+        " R Class": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                3.0
+            ]
+        },
+        "220": {
+            "transmissions": [
+                "Automatic"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.0
+            ]
+        },
+        "200": {
+            "transmissions": [
+                "Manual"
+            ],
+            "fuelTypes": [
+                "Diesel"
+            ],
+            "engineSizes": [
+                2.2
+            ]
+        }
+    }
+}
